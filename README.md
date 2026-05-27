@@ -4,7 +4,7 @@ Complete MLOps pipeline for deploying machine learning models on AWS EC2 with au
 
 ## What This Does
 
-Trains and deploys an Iris flower classification model with:
+Trains and deploys an Iris flower classification model with Basic Functionality:
 - **Flask REST API** for predictions
 - **Streamlit Web UI** for interactive testing
 - **Jenkins CI/CD** for automated deployment
