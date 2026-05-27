@@ -21,7 +21,7 @@ services:
       retries: 3
       start_period: 10s
 
-  # Streamlit UI service
+  # Streamlit UI service for MLOPS
   streamlit-ui:
     build:
       context: .
